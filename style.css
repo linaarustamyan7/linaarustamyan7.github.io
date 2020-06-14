@@ -1,0 +1,24 @@
+span#myspan1 {
+color:black;
+}
+span#myspan2{
+color: black;
+}
+span#myspan3{
+color: black;
+}
+span#myspan4{
+color: black;
+}
+span#myspan5{
+color: black;
+}
+div.songs {
+	color: mediumvioletred;
+}
+button.watch {
+	background:mistyrose;
+}
+body {
+	background: seashell;
+}
